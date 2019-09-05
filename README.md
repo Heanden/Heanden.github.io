@@ -9,5 +9,8 @@
 ### MSP430
 #### 1. [材料](https://github.com/Heanden/EIES/tree/master/MSP430/info)
 #### 2. [工程](https://github.com/Heanden/EIES/tree/master/MSP430/subject)
+
+### DSP
+#### 1. [材料](https://github.com/Heanden/EIES/tree/master/DSP)
 ###### From Gavin Chen 2019/9/4
 ###### 源码仅供参考,页面技术由 Github 提供，最后更新于2019年9月4日16时14分。
