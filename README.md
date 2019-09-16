@@ -11,7 +11,8 @@
 #### 2. [工程](https://github.com/Heanden/EIES/tree/master/MSP430/subject)
 
 ### DSP
-#### 1. [材料](https://github.com/Heanden/EIES/tree/master/DSP)
+#### 1. [材料](https://github.com/Heanden/EIES/tree/master/DSP/info)
+#### 2. [工程](https://github.com/Heanden/EIES/tree/master/DSP/subject)
 
 ###### From Gavin Chen 2019/9/4
 ###### 源码仅供参考,页面技术由 Github 提供。[其他](https://github.com/Heanden/java-learn/tree/master/tran)
