@@ -2,7 +2,7 @@
 ###### [封面：Gal Gadot](https://baike.baidu.com/item/%E7%9B%96%E5%B0%94%C2%B7%E5%8A%A0%E6%9C%B5)
 # 目录
 
-### MATLAB
+### 学习
 #### 1. [材料](https://github.com/Heanden/EIES/tree/master/matlab/info)
 #### 2. [工程](https://github.com/Heanden/EIES/tree/master/matlab/subject)
 
@@ -19,4 +19,4 @@
 #### 2. [工程](https://github.com/Heanden/EIES/tree/master/EDA/subject)
 
 ###### From Gavin Chen 2019/9/4
-###### 源码仅供参考,页面技术由 Github 提供。[其他](https://github.com/Heanden/java-learn/tree/master/tran)
+###### 源码仅供参考,页面技术由 Github 提供。[个人项目](https://github.com/Heanden/ITEM)[过渡](https://github.com/Heanden/EIES/tree/master/tran)
