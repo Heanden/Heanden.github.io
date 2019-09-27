@@ -2,7 +2,7 @@
 ###### [封面：Gal Gadot](https://baike.baidu.com/item/%E7%9B%96%E5%B0%94%C2%B7%E5%8A%A0%E6%9C%B5)
 # 目录
 
-### 学习
+### MATLAB
 #### 1. [材料](https://github.com/Heanden/EIES/tree/master/matlab/info)
 #### 2. [工程](https://github.com/Heanden/EIES/tree/master/matlab/subject)
 
