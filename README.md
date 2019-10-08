@@ -18,6 +18,9 @@
 #### 1. [材料](https://github.com/Heanden/EIES/tree/master/EDA/info)
 #### 2. [工程](https://github.com/Heanden/EIES/tree/master/EDA/subject)
 
+### TEC for EIE
+#### 1. [教材翻译](http://www.hxedu.com.cn/Resource/OS/AR/23851/ml.htm)
+
 ###### From Gavin Chen 2019/9/4
 ###### [个人项目](https://github.com/Heanden/ITEM) | [暂存](https://github.com/Heanden/EIES/tree/master/tran) | [联系](mailto:chendger@foxmail.com)
 
