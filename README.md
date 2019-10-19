@@ -22,6 +22,6 @@
 #### 1. [教材翻译](http://www.hxedu.com.cn/Resource/OS/AR/23851/ml.htm)
 
 ###### From Gavin Chen 2019/9/4
-###### [个人项目](https://github.com/Heanden/ITEM) | [暂存](https://github.com/Heanden/EIES/tree/master/tran) | <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=kPj18f735fL50Pb-6P3x_fy_8--9" style="text-decoration:none;">联系我</a>
+###### [个人项目](https://github.com/Heanden/ITEM) | [暂存](https://github.com/Heanden/EIES/tree/master/tran) | 联系[α](mailto:chendger@foxmail.com)<a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=kPj18f735fL50Pb-6P3x_fy_8--9" style="text-decoration:none;">β</a>
 
 ###### 源码仅供参考,页面技术由 Github 提供。
