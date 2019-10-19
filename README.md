@@ -25,3 +25,4 @@
 ###### [个人项目](https://github.com/Heanden/ITEM) | [暂存](https://github.com/Heanden/EIES/tree/master/tran) | [联系](mailto:chendger@foxmail.com)
 
 ###### 源码仅供参考,页面技术由 Github 提供。
+<a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=kPj18f735fL50Pb-6P3x_fy_8--9" style="text-decoration:none;">给我写信</a>
