@@ -19,8 +19,8 @@
 #### 2. [工程](https://github.com/Heanden/EIES/tree/master/EDA/subject)
 
 ### Cpp
-#### 1. [材料](https://github.com/Heanden/EIES/tree/master/cpp/info)
-#### 2. [工程](https://github.com/Heanden/EIES/tree/master/cpp/subject)
+#### 1. [材料](https://github.com/Heanden/EIES/tree/master/Cpp/info)
+#### 2. [工程](https://github.com/Heanden/EIES/tree/master/Cpp/subject)
 
 ### TEC for EIE
 #### 1. [教材翻译](http://www.hxedu.com.cn/Resource/OS/AR/23851/ml.htm)
