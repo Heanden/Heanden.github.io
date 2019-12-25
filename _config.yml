@@ -1,3 +1,4 @@
 theme: jekyll-theme-leap-day
 title: [EIE 20192]
-description: [A collection of reference codes that are useful in individual courses. ]
+description:
+  [A collection of reference codes that are useful in individual courses.]
