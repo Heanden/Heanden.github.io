@@ -1,8 +1,8 @@
 # electrics
 
-| 第一周 | 周一                                                         | 周二 | 周三 | 周四 | 周五 |
-| :----- | :----------------------------------------------------------- | :--- | ---- | :--- | ---- |
-| 12     | [plc](https://dabcoooacnz-my.sharepoint.com/:v:/g/personal/heangubi_mua233_top/EcawkNyxNLlJjTVSMXCR6VQBqowo8BbnzEmLarM3nZ33pw?e=6SQXgt) |      |      |      |      |
-| 34     | [通信原理](https://dabcoooacnz-my.sharepoint.com/:v:/g/personal/heangubi_mua233_top/EabwZfYR7SNJty9sZC7sAX4BBS6wJCvS0vHX6rp7TkoaMQ?e=3fUDaK) |      |      |      |      |
-| 56     | [dsp](https://dabcoooacnz-my.sharepoint.com/:v:/g/personal/heangubi_mua233_top/Ech30teCnyNNib3bf9qLVUgB-2Ryf8CHt9S2qxqRQdGbZQ?e=mbYPdJ) |      |      |      |      |
-| 78     |                                                              |      |      |      |      |
+| 第一周 | 周一                                                         | 周二                                                         | 周三 | 周四 | 周五 |
+| :----- | :----------------------------------------------------------- | :----------------------------------------------------------- | ---- | :--- | ---- |
+| 12     | [plc](https://dabcoooacnz-my.sharepoint.com/:v:/g/personal/heangubi_mua233_top/EcawkNyxNLlJjTVSMXCR6VQBqowo8BbnzEmLarM3nZ33pw?e=6SQXgt) |                                                              |      |      |      |
+| 34     | [通信原理](https://dabcoooacnz-my.sharepoint.com/:v:/g/personal/heangubi_mua233_top/EabwZfYR7SNJty9sZC7sAX4BBS6wJCvS0vHX6rp7TkoaMQ?e=3fUDaK) | [数据结构](https://dabcoooacnz-my.sharepoint.com/:v:/g/personal/heangubi_mua233_top/EcEsAoh0yLBJhmVSH7AXNzkBgzyydAcIm5wXpcNwZ3Cl5Q?e=F2zDjt) |      |      |      |
+| 56     | [dsp](https://dabcoooacnz-my.sharepoint.com/:v:/g/personal/heangubi_mua233_top/Ech30teCnyNNib3bf9qLVUgB-2Ryf8CHt9S2qxqRQdGbZQ?e=mbYPdJ) |                                                              |      |      |      |
+| 78     |                                                              |                                                              |      |      |      |

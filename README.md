@@ -6,5 +6,5 @@
 
 From Gavin Chen 2019/9/4
 
-源码仅供参考,使用 Github 和 [onedrive](https://github.com/Heanden/heanden.github.io/blob/master/electrics.md) 提供的技术
+源码仅供参考,使用 [Git](https://github.com/Heanden)[hub](https://github.com/) 和 [one](https://onedrive.live.com/)[drive](https://github.com/Heanden/heanden.github.io/blob/master/electrics.md) 提供的技术
 
