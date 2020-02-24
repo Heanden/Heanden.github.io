@@ -6,3 +6,11 @@
 | 34     | [通信原理](https://dabcoooacnz-my.sharepoint.com/:v:/g/personal/heangubi_mua233_top/EabwZfYR7SNJty9sZC7sAX4BBS6wJCvS0vHX6rp7TkoaMQ?e=3fUDaK) | [数据结构](https://dabcoooacnz-my.sharepoint.com/:v:/g/personal/heangubi_mua233_top/EcEsAoh0yLBJhmVSH7AXNzkBgzyydAcIm5wXpcNwZ3Cl5Q?e=F2zDjt) |                                                              | [dsp](https://dabcoooacnz-my.sharepoint.com/:v:/g/personal/heangubi_mua233_top/EXNGWQxGRkNEisP0mvUOZa4BNKqhh935FHSGIObOP45cYw?e=e3DOfW) |                                                              |
 | 56     | [dsp](https://dabcoooacnz-my.sharepoint.com/:v:/g/personal/heangubi_mua233_top/Ech30teCnyNNib3bf9qLVUgB-2Ryf8CHt9S2qxqRQdGbZQ?e=mbYPdJ) |                                                              |                                                              | [职业规划](https://dabcoooacnz-my.sharepoint.com/:v:/g/personal/heangubi_mua233_top/ESl9eH6-1xxMui5aoB8orGABUGC5TWF44L5Wgyux7kmUSg?e=IdETin) |                                                              |
 | 78     |                                                              |                                                              |                                                              |                                                              |                                                              |
+
+
+| 第二周 | 周一                                                         | 周二         | 周三         | 周四         | 周五         |
+| :----- | :----------------------------------------------------------- | :----------- | ------------ | :----------- | ------------ |
+| 12     | [plc](https://dabcoooacnz-my.sharepoint.com/:v:/g/personal/heangubi_mua233_top/EYMhsl_x8hlLspkOZPa1_6sBO5Bjj1W40sPmG--KS15jyQ?e=0jjs9g) |              | [通信原理]() |              | [数据结构]() |
+| 34     | [通信原理]()                                                 | [数据结构]() |              | [dsp]()      |              |
+| 56     | [dsp]()                                                      |              |              | [职业规划]() |              |
+| 78     |                                                              |              |              |              |              |
