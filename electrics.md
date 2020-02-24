@@ -12,5 +12,5 @@
 | :----- | :----------------------------------------------------------- | :----------- | ------------ | :----------- | ------------ |
 | 12     | [plc](https://dabcoooacnz-my.sharepoint.com/:v:/g/personal/heangubi_mua233_top/EYMhsl_x8hlLspkOZPa1_6sBO5Bjj1W40sPmG--KS15jyQ?e=0jjs9g) |              | [通信原理]() |              | [数据结构]() |
 | 34     | [通信原理](https://dabcoooacnz-my.sharepoint.com/:v:/g/personal/heangubi_mua233_top/ESO3t6MZ6m1Nvw1Dwuvk8rcBWTumW0v_aqx7Go5ENNDtWw?e=CdduDh) | [数据结构]() |              | [dsp]()      |              |
-| 56     | [dsp]()                                                      |              |              | [职业规划]() |              |
+| 56     | [dsp](https://dabcoooacnz-my.sharepoint.com/:v:/g/personal/heangubi_mua233_top/EV3zPhyzxwJPqkGPyts3o4kBBRP6mOIy8ukz2RTaIveY_A?e=4DJqKm) |              |              | [职业规划]() |              |
 | 78     |                                                              |              |              |              |              |
