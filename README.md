@@ -2,7 +2,12 @@
 
 | [封面：Gal Gadot](https://baike.baidu.com/item/%E7%9B%96%E5%B0%94%C2%B7%E5%8A%A0%E6%9C%B5) | [个人项目](https://eiet.xyz/ITEM/) | [暂存](https://github.com/Heanden/EIES/tree/master/tran) | [归档](https://github.com/Heanden/heanden.github.io/blob/master/pigeonhole.md) |
 
-
+1. [通信原理](https://github.com/Heanden/EIE2020a/tree/master/CommunicationTheory)
+2. [DSP技术](https://github.com/Heanden/EIE2020a/tree/master/DigitalSignalProcessing)
+3. [计算机网络](https://github.com/Heanden/EIE2020a/tree/master/ComputerNetworks)
+4. [嵌入式系统](https://github.com/Heanden/EIE2020a/tree/master/EmbeddedSystem)
+5. [可编程控制器](https://github.com/Heanden/EIE2020a/tree/master/ProgrammableLogicController)
+6. [数据结构](https://github.com/Heanden/EIE2020a/tree/master/DataStructure)
 
 From Gavin Chen 2019/9/4
 
