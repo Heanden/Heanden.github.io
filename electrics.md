@@ -1,5 +1,7 @@
 # electrics
 
+###### [深入浅出通信原理](https://dabcoooacnz-my.sharepoint.com/:f:/g/personal/heangubi_mua233_top/Ep2ixccDcvhIr82gYPFWfmsB20_h-vVKqAtsnYQ0QbLepw?e=vY702x)
+
 | 第一周 | 周一                                                         | 周二                                                         | 周三                                                         | 周四                                                         | 周五                                                         |
 | :----- | :----------------------------------------------------------- | :----------------------------------------------------------- | ------------------------------------------------------------ | :----------------------------------------------------------- | ------------------------------------------------------------ |
 | 12     | [plc](https://dabcoooacnz-my.sharepoint.com/:v:/g/personal/heangubi_mua233_top/EcawkNyxNLlJjTVSMXCR6VQBqowo8BbnzEmLarM3nZ33pw?e=6SQXgt) |                                                              | [通信原理](https://dabcoooacnz-my.sharepoint.com/:v:/g/personal/heangubi_mua233_top/EYdHi0sS-ppFo3PAxPt-mZwBY_Jt7lkid9BA_rVe1ToQOA?e=lpsrMi) |                                                              | [数据结构](https://dabcoooacnz-my.sharepoint.com/:v:/g/personal/heangubi_mua233_top/EQujIlfZZ-hOi0FafNtyAa4B9-QHa4ICn02cq72RE2QgUg?e=odrDup) |
