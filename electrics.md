@@ -21,3 +21,17 @@
 | 34     | [通信原理](https://dabcoooacnz-my.sharepoint.com/:v:/g/personal/heangubi_mua233_top/EeHUMRTqepFMvm5G2KT0M_IB_mhDngVn6w77PmzO-7jBEQ?e=PeQIFw) | [数据结构](https://dabcoooacnz-my.sharepoint.com/:v:/g/personal/heangubi_mua233_top/EUMkd0q8QltJoMpJLCTtPncBw0_1qTme2bKMCOODxGJfBg?e=rFAO2E) |                                                              | [dsp](https://dabcoooacnz-my.sharepoint.com/:v:/g/personal/heangubi_mua233_top/ETfNxhv_ILdMmam3_wXuZF4BILPHYl72pGpyknZtGovmJg?e=bwHItm) |                                                              |
 | 56     | [dsp](https://dabcoooacnz-my.sharepoint.com/:v:/g/personal/heangubi_mua233_top/EZrG78hzqhtHqXdYJRDQO0cBuZcV6quHK8CqwRnZVQ9gig?e=ehydU4) |                                                              |                                                              | [职业规划]()                                                 |                                                              |
 | 78     |                                                              |                                                              |                                                              |                                                              |                                                              |
+
+| 第四周 | 周一                                                         | 周二         | 周三         | 周四         | 周五           |
+| :----- | :----------------------------------------------------------- | :----------- | ------------ | :----------- | -------------- |
+| 12     | [plc](https://dabcoooacnz-my.sharepoint.com/:v:/g/personal/heangubi_mua233_top/EVagTpt4VqdOmHCHdxAmxPIBx7ntaMyHzlwrFHw8T9xBPg?e=BwKZkj) | [嵌入式]()   | [通信原理]() |              | [数据结构]()   |
+| 34     | [通信原理](https://dabcoooacnz-my.sharepoint.com/:v:/g/personal/heangubi_mua233_top/EcDTMJdrQpROkJUdKIzX8GwB7m2CWTwevcQ49W39vDiDwA?e=WJBQYK) | [数据结构]() |              | [dsp]()      | [计算机网络]() |
+| 56     | [思政大课(部分)]()                                           |              | [dsp]()      | [职业规划]() | [嵌入式]()     |
+| 78     |                                                              |              |              |              |                |
+
+| 第五周 | 周一                                                         | 周二         | 周三           | 周四         | 周五           |
+| :----- | :----------------------------------------------------------- | :----------- | -------------- | :----------- | -------------- |
+| 12     | [plc](https://dabcoooacnz-my.sharepoint.com/:v:/g/personal/heangubi_mua233_top/EVagTpt4VqdOmHCHdxAmxPIBx7ntaMyHzlwrFHw8T9xBPg?e=BwKZkj) | [嵌入式]()   | [通信原理]()   |              | [数据结构]()   |
+| 34     | [通信原理](https://dabcoooacnz-my.sharepoint.com/:v:/g/personal/heangubi_mua233_top/EcDTMJdrQpROkJUdKIzX8GwB7m2CWTwevcQ49W39vDiDwA?e=WJBQYK) | [数据结构]() | [计算机网络]() | [dsp]()      | [计算机网络]() |
+| 56     | [dsp]()                                                      |              |                | [职业规划]() | [嵌入式]()     |
+| 78     |                                                              |              |                |              |                |
