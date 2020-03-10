@@ -29,9 +29,9 @@
 | 56     | [思政大课(部分)]()                                           |              | [dsp]()      | [职业规划]() | [嵌入式]()     |
 | 78     |                                                              |              |              |              |                |
 
-| 第五周 | 周一                                                         | 周二         | 周三           | 周四         | 周五           |
-| :----- | :----------------------------------------------------------- | :----------- | -------------- | :----------- | -------------- |
-| 12     | [plc](https://dabcoooacnz-my.sharepoint.com/:v:/g/personal/heangubi_mua233_top/EVagTpt4VqdOmHCHdxAmxPIBx7ntaMyHzlwrFHw8T9xBPg?e=BwKZkj) | [嵌入式]()   | [通信原理]()   |              | [数据结构]()   |
-| 34     | [通信原理](https://dabcoooacnz-my.sharepoint.com/:v:/g/personal/heangubi_mua233_top/EcDTMJdrQpROkJUdKIzX8GwB7m2CWTwevcQ49W39vDiDwA?e=WJBQYK) | [数据结构]() | [计算机网络]() | [dsp]()      | [计算机网络]() |
-| 56     | [dsp]()                                                      |              |                | [职业规划]() | [嵌入式]()     |
-| 78     |                                                              |              |                |              |                |
+| 第五周 | 周一                                                         | 周二                                                         | 周三           | 周四         | 周五           |
+| :----- | :----------------------------------------------------------- | :----------------------------------------------------------- | -------------- | :----------- | -------------- |
+| 12     | [plc](https://dabcoooacnz-my.sharepoint.com/:v:/g/personal/heangubi_mua233_top/EVagTpt4VqdOmHCHdxAmxPIBx7ntaMyHzlwrFHw8T9xBPg?e=BwKZkj) | [嵌入式(部分)](https://dabcoooacnz-my.sharepoint.com/:v:/g/personal/heangubi_mua233_top/EdcoyYraH9pMsFf-UMaBSbgBVFBsLsKM_pExvQfsPucBcg?e=ha51wC) | [通信原理]()   |              | [数据结构]()   |
+| 34     | [通信原理](https://dabcoooacnz-my.sharepoint.com/:v:/g/personal/heangubi_mua233_top/EcDTMJdrQpROkJUdKIzX8GwB7m2CWTwevcQ49W39vDiDwA?e=WJBQYK) | [数据结构]()                                                 | [计算机网络]() | [dsp]()      | [计算机网络]() |
+| 56     | [dsp]()                                                      |                                                              |                | [职业规划]() | [嵌入式]()     |
+| 78     |                                                              |                                                              |                |              |                |
