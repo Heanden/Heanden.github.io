@@ -7,9 +7,15 @@
 [深入浅出通信原理](https://dabcoooacnz-my.sharepoint.com/:f:/g/personal/heangubi_mua233_top/Ep2ixccDcvhIr82gYPFWfmsB20_h-vVKqAtsnYQ0QbLepw?e=vY702x)
 
 2. #### [DSP技术](https://github.com/Heanden/EIE2020a/tree/master/DigitalSignalProcessing)
+
+[DSP指令大全](https://dabcoooacnz-my.sharepoint.com/:f:/g/personal/heangubi_mua233_top/Ep2ixccDcvhIr82gYPFWfmsB20_h-vVKqAtsnYQ0QbLepw?e=vY702x)
+
 3. #### [计算机网络](https://github.com/Heanden/EIE2020a/tree/master/ComputerNetworks)
+
 4. #### [嵌入式系统](https://github.com/Heanden/EIE2020a/tree/master/EmbeddedSystem)
+
 5. #### [可编程控制器](https://github.com/Heanden/EIE2020a/tree/master/ProgrammableLogicController)
+
 6. #### [数据结构](https://github.com/Heanden/EIE2020a/tree/master/DataStructure)
 
 From Gavin Chen 2019/9/4
