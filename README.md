@@ -20,5 +20,5 @@
 
 From Gavin Chen 2019/9/4
 
-源码仅供参考,使用 [Git](https://github.com/Heanden)[hub](https://github.com/) 和 [one](https://onedrive.live.com/)[drive](https://github.com/Heanden/heanden.github.io/blob/master/electrics.md) 提供的技术 | <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=kPj18f735fL50Pb-6P3x_fy_8--9" style="text-decoration:none;">联系我</a>/[备用一](mailto:838045868@qq.com)/[备用二](mailto:heangubi@outlook.com)/[备用三](mailto:heangubi@gmail.com) 
+源码仅供参考,使用 [Git](https://github.com/Heanden)[hub](https://github.com/) 和 [onedrive](https://onedrive.live.com/)提供的技术 | <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=kPj18f735fL50Pb-6P3x_fy_8--9" style="text-decoration:none;">联系我</a>/[备用一](mailto:838045868@qq.com)/[备用二](mailto:heangubi@outlook.com)/[备用三](mailto:heangubi@gmail.com) 
 
